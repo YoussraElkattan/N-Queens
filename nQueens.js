@@ -1,5 +1,4 @@
-//Ali Essam Ali Nemir
-//320210040
+
 
 const readline = require("readline");
 
